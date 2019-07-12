@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="octagon-source-update:main" external.linked.project.path="$MODULE_DIR$/../../octagon-source-update" external.root.project.path="$MODULE_DIR$/../../octagon-source-update" external.system.id="GRADLE" external.system.module.group="com.adamratzman" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../octagon-source-update/build/classes/kotlin/main" />
+          <option name="classpath" value="$MODULE_DIR$/../../octagon-common/build/libs/octagon-common-1.0-SNAPSHOT.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/36da09a8f68484523fa2aaa100399d612b247d67/jsoup-1.11.3.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.sparkjava/spark-core/2.7.2/b832cca2704a96c027424efafec3fe39392f5aab/spark-core-2.7.2.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.rometools/rome/1.9.0/4546a79a6fb470c5235806c877d9438140f3bb61/rome-1.9.0.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.20/b1f3cb184c4ce4139741454df2f8fca5320f822d/kotlin-stdlib-jdk8-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.reflections/reflections/0.9.11/4c686033d918ec1727e329b7222fcb020152e32b/reflections-0.9.11.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.1.1/3d2b7321cdef9ebf9cb7729ea4f75a6f6457df86/kotlinx-coroutines-core-1.1.1.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.rethinkdb/rethinkdb-driver/2.3.3/5b8bd297306f32c7246cfd2b022e1aff7a12c6c7/rethinkdb-driver-2.3.3.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.rometools/rome-utils/1.9.0/9f2291327c641cd78d3111d50e9b03022f6c1090/rome-utils-1.9.0.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.16/3a6274f658487d5bfff9af3862beff6da1e7fd52/slf4j-api-1.7.16.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.4.8.v20171121/695278449233cee9bae9eed930a5264b574774f0/jetty-webapp-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.8.v20171121/c6ae10f65664d90e24dede5dec23098f5f4c3a58/websocket-server-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.8.v20171121/bbbb9b5de08f468c7b9b3de6aea0b098d2c679b6/jetty-servlet-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.8.v20171121/e8350eec683b55494287f06740543e4be6f75425/jetty-security-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.8.v20171121/34614bd9a29de57ef28ca31f1f2b49a412af196d/jetty-server-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9.4.8.v20171121/9061f66101a8654ae1a55a3336438473f1b00713/websocket-servlet-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.6/6f14738ec2e9dd0011e343717fa624a10f8aab64/jdom2-2.0.6.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.20/aa17d6fd473ce53061a7b2b9d2ae96f547cae93d/kotlin-stdlib-jdk7-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20/eb2a232734e09fcd1b958a5c7520a93c6de38b32/kotlin-stdlib-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.21.0-GA/598244f595db5c5fb713731eddbb1c91a58d959b/javassist-3.21.0-GA.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.1.1/7ed04382bdf0c89c5d87ac462aa4935ae8e85243/kotlinx-coroutines-core-common-1.1.1.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.8.v20171121/f83fc3fbd52109a57d09b3ef88b715a36e8acdb4/websocket-client-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.8.v20171121/e93cac2ce46e81ee8b36288cf7e19d3bac82d536/jetty-client-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.8.v20171121/9879d6c4e37400bf43f0cd4b3c6e34a3ba409864/jetty-http-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.8.v20171121/82cd6d9caa68baf6557176159e6e5c37faed0e9b/websocket-common-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.8.v20171121/d3fe2dfa62f52ee91ff07cb359f63387e0e30b40/jetty-io-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.8.v20171121/b0d6f87f580a9bd7fa9aaf9b7448bf63cf0ac34f/jetty-xml-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.8.v20171121/6d889f9a8b5fd2a573c6d1d518c7e119a6d8c170/websocket-api-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/7d7934e26ce34da1a0a8d00e38038d7cf3375e89/kotlin-stdlib-common-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.8.v20171121/d6ec1a1613c7fa72aa6bf5d8c204750afbc3df3b/jetty-util-9.4.8.v20171121.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="octagon-source-update" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../octagon-source-update/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../octagon-source-update/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../octagon-source-update/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../octagon-source-update/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8 (1)" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="octagon-source-update.octagon-common.main" />
+    <orderEntry type="library" name="Gradle: org.jsoup:jsoup:1.11.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.sparkjava:spark-core:2.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.rometools:rome:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.reflections:reflections:0.9.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.rethinkdb:rethinkdb-driver:2.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.rometools:rome-utils:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-webapp:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-server:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-servlet:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-security:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-server:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-servlet:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.jdom:jdom2:2.0.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.21.0-GA" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-client:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-xml:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:9.4.8.v20171121" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.1" level="project" />
+  </component>
+</module>

@@ -1,0 +1,3 @@
+rootProject.name = 'octagonweb'
+include ':octagon-common'
+project(':octagon-common').projectDir = new File(settingsDir, '../octagon-common')

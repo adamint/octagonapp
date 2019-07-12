@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="octagon-source-update" external.linked.project.path="$MODULE_DIR$/../../octagon-source-update" external.root.project.path="$MODULE_DIR$/../../octagon-source-update" external.system.id="GRADLE" external.system.module.group="com.adamratzman" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../octagon-source-update">
+      <excludeFolder url="file://$MODULE_DIR$/../../octagon-source-update/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../octagon-source-update/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../octagon-source-update/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

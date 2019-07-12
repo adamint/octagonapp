@@ -1,0 +1,12 @@
+version: '3'
+services:
+  source-update:
+    image: octagon-source-update
+    build:
+      context: ./
+      dockerfile: /octagon-source-update/Dockerfile
+  snippet-update:
+    image: octagonapp
+    build:
+      context: ./
+      dockerfile: /octagonapp/Dockerfile

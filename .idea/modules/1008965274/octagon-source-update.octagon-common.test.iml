@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":octagon-common:test" external.linked.project.path="$MODULE_DIR$/../../../octagon-common" external.root.project.path="$MODULE_DIR$/../../../octagon-source-update" external.system.id="GRADLE" external.system.module.group="com.adamratzman" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../octagon-common/build/classes/kotlin/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../../octagon-common/build/classes/kotlin/main;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.rethinkdb/rethinkdb-driver/2.3.3/5b8bd297306f32c7246cfd2b022e1aff7a12c6c7/rethinkdb-driver-2.3.3.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.20/b1f3cb184c4ce4139741454df2f8fca5320f822d/kotlin-stdlib-jdk8-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.20/aa17d6fd473ce53061a7b2b9d2ae96f547cae93d/kotlin-stdlib-jdk7-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20/eb2a232734e09fcd1b958a5c7520a93c6de38b32/kotlin-stdlib-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/7d7934e26ce34da1a0a8d00e38038d7cf3375e89/kotlin-stdlib-common-1.3.20.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/adam/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="octagon-common" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../octagon-common/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../octagon-common/build/classes/kotlin/main" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../octagon-common/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../octagon-common/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../octagon-common/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../octagon-common/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../octagon-common/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8 (1)" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="octagon-source-update.octagon-common.main" />
+    <orderEntry type="library" name="Gradle: com.rethinkdb:rethinkdb-driver:2.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.1" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="octagon-source-update.octagon-common.main" />
+</module>

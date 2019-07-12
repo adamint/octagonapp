@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-common.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-source-update.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-source-update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-source-update.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-source-update.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-source-update.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagon-source-update.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonapp.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonapp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonapp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonweb.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonweb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonweb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonweb.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.adamratzman.octagonweb.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/octagon-common.iml" filepath="$PROJECT_DIR$/.idea/modules/octagon-common.iml" group="com/adamratzman" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1008965274/octagon-source-update.octagon-common.iml" filepath="$PROJECT_DIR$/.idea/modules/1008965274/octagon-source-update.octagon-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1008965274/octagon-source-update.octagon-common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1008965274/octagon-source-update.octagon-common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1008965274/octagon-source-update.octagon-common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1008965274/octagon-source-update.octagon-common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/octagonweb.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/octagonweb.common.iml" />
+    </modules>
+  </component>
+</project>
